@@ -1,0 +1,13 @@
+1. What is DevOps ? As per your understanding.
+
+-->In general, DevOps is a culture or methodology which is adopted by some (most nowadays) organizations to deliver applications faster to the customer. That’s it! That’s all DevOps is.
+
+2.What is Automation, Scaling, Infrastructure?
+
+--> In DevOps Automation refers to Infrastructure automation, CI/CD pipeline automation. 
+--> Scaling means spin up servers when needed and down when it's not needed.
+--> Infrastructure refers to the server, storages, hardware on which applications run.
+
+3.Why DevOps is Important?
+
+--> Before DevOps came into the market let’s say 10–15 years ago, after the developers had finished writing their code on their local machine and uploaded it to some central repository, from there different teams like System admin, Server admin, Build and release engineer(BRE) teams used to work together to setup the servers, then install the necessary things required to run the application on the server and then they used to release the application. Now, because there are different teams involved & they used to do everything manually, it used to take a lot of time to deliver or release the application to the users. Now this is where DevOps came into the picture and solved or fasten the process of delivery.
