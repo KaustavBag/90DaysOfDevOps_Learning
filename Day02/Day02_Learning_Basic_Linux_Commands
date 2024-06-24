@@ -1,0 +1,38 @@
+1. In Day02 let's learn about Listing commands-->
+
+--> ls option_flag arguments
+
+* ls -l --> list the files and directories in long list foprmat with extra information
+
+* ls -a -->list all inclusing hidden files and directories
+
+* ls *.sh --> list all the files which ends with .sh extension
+
+* ls -i --> list files and firectories with index number nodes
+
+* ls -d */ --> list all the directories with patterns
+
+2. Directory commands-->
+
+* pwd --> Prints present working directory
+
+* cd path_to_directory --> cd /c/Users/Downloads (e.g. of changinfg to another directory)
+
+* cd ~ or Cd   --> Go back to home directory of the user
+
+* cd -    --> Go to last working directory
+
+* cd .. --> Go back to previous directory / parent directory
+
+* cd ../../.. --> Go back as many directories
+
+* mkdir directory_name --> To create a directory
+
+* mkdir .directory_name --> To create a hidden directory
+
+* mkdir A B C D --> To create multiple directories
+
+* mkdir /c/Users/Downloads --> To create a directory in specific folder
+
+* mkdir -p A/B/C/D --> To create nested directories 
+
