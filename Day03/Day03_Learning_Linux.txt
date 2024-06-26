@@ -1,0 +1,19 @@
+#Day03 Learning more Linux commands
+
+* cat --> To see the content of a file
+
+* chmod +x file_name --> To give execute access users
+
+* history --> To check history of previously used commands
+
+* rm -d directory_name / rm -rf -d directory_name (If nested directories are present) --> To delete or remove directory
+
+* touch file_name --> To create a file
+
+* vim file_name --> To add or edit text content via vim editor
+
+* head file_name --> To view only the content on top
+
+* tail file_name --> To view only the content on bottom
+
+* diff file1.txt file2.txt --> To find the difference between two files
