@@ -1,0 +1,33 @@
+# Day04 Learnings
+
+** Kernel --> It's software program which is responsible for managing, controlling or handleing system processes, user processes, system calls , devices etc. It's the most important part of OS and called 'heart' of an OS. Thr kernel of Linux distro is called 'Linux'. 
+
+** Shell--> Shell is a computer program, specifically a command line interpreter which accepts commands through input devices, executes the command and converts it to a language which kernel can unsderstand. Through shell we can directly talk to the kernel. 
+
+** Shell scripting --> Executing linux commands one by one written in a file is called shell scripting. It has an extension of .sh.
+
+** We can use vim, vi,nano etc editors to write the script.
+
+** We can write a variable in shell script and pribt with $variable_name
+
+** We can take user input as an command line argument with 'read' statement, e.g. read input
+
+** We can use if - else condition in shell scripting also. e.g -->
+
+a=10;
+
+if [ $a > 20 ]
+then
+ echo "$a is greater than 20"
+else 
+ echo "Not grater"
+fi
+
+** We can take arguments from command line and execute scripts with the arguments. e.g. -->
+
+Script--> echo "$1 World"
+
+
+./test.sh Hello
+
+It'll execute Hello World
