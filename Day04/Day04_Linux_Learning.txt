@@ -1,14 +1,16 @@
 # Day04 Learnings
 
-** Kernel --> It's software program which is responsible for managing, controlling or handleing system processes, user processes, system calls , devices etc. It's the most important part of OS and called 'heart' of an OS. Thr kernel of Linux distro is called 'Linux'. 
+** Kernel --> It's software program which is responsible for managing, controlling or handleing hardware resources (e.g. CPU, RAM, storages), memory management,device management, system processes, user processes, system calls ,enforces security policies and access control mechanisms etc. It's the most important part of OS and called 'heart' of an OS. Thr kernel of Linux distro is called 'Linux'. 
 
 ** Shell--> Shell is a computer program, specifically a command line interpreter which accepts commands through input devices, executes the command and converts it to a language which kernel can unsderstand. Through shell we can directly talk to the kernel. 
 
 ** Shell scripting --> Executing linux commands one by one written in a file is called shell scripting. It has an extension of .sh.
 
+** In the beginning of shell script we can use #!/bin/bash or #!/bin/sh , these are called shebang and it tells which command line interpreter to use to execute the script. Bourne shell (sh) is available on almost all systems while Bourne again shell (Bash) has some advanced features and may not available on all the systems. So if we have some bash specific commands and bash is available on target systems then bash shell is preferred.
+
 ** We can use vim, vi,nano etc editors to write the script.
 
-** We can write a variable in shell script and pribt with $variable_name
+** We can write a variable in shell script and print with $variable_name
 
 ** We can take user input as an command line argument with 'read' statement, e.g. read input
 
