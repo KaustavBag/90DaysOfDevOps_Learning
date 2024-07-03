@@ -1,0 +1,5 @@
+Doubts: 1. Why mkdir day{1..10} command works but it does not works in shell scripts
+
+2. Container vs VM in depth and newtorking in container vs VM
+
+3. What does ubuntu base image contains if container does not have kernel ?
