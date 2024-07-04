@@ -3,3 +3,7 @@ Doubts: 1. Why mkdir day{1..10} command works but it does not works in shell scr
 2. Container vs VM in depth and newtorking in container vs VM
 
 3. What does ubuntu base image contains if container does not have kernel ?
+
+Answer--> 2. VM has complete isolation and control as it has full OS where containers uses host kernel to share resources, it has only minimal set of configurations to run an application with application code and it's dependencies.
+
+3. A base image contains application code and it's runtime with mandatory binaries and utilities to boot an OS.
