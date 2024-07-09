@@ -7,3 +7,9 @@ Doubts: 1. Why mkdir day{1..10} command works but it does not works in shell scr
 Answer--> 2. VM has complete isolation and control as it has full OS where containers uses host kernel to share resources, it has only minimal set of configurations to run an application with application code and it's dependencies.
 
 3. A base image contains application code and it's runtime with mandatory binaries and utilities to boot an OS.
+
+
+--------------------
+
+1. Started learning gitlab CI
+2. Today resume AV DevOps Z to H and, learn about maven lifecycle
