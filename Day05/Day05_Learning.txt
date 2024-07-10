@@ -13,3 +13,6 @@ Answer--> 2. VM has complete isolation and control as it has full OS where conta
 
 1. Started learning gitlab CI
 2. Today resume AV DevOps Z to H and, learn about maven lifecycle
+
+Deploy a nginx server using kind and helm chart-->
+
