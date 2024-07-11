@@ -16,3 +16,8 @@ Answer--> 2. VM has complete isolation and control as it has full OS where conta
 
 Deploy a nginx server using kind and helm chart-->
 
+# Learned about docker image lifecycle--> dockerfile--> build-->image -->run-->container-->push
+
+#Created gitlab-cit.yml to create the CI pipeline
+
+# Today will be creating the pipeline and dcoker project from AV ZtoH
