@@ -21,3 +21,5 @@ Deploy a nginx server using kind and helm chart-->
 #Created gitlab-cit.yml to create the CI pipeline
 
 # Today will be creating the pipeline and dcoker project from AV ZtoH
+
+#Hem is a package manager for K8S, minikube is the latest one
