@@ -23,3 +23,7 @@ Deploy a nginx server using kind and helm chart-->
 # Today will be creating the pipeline and dcoker project from AV ZtoH
 
 #Hem is a package manager for K8S, minikube is the latest one
+
+#in VM virtualization happens at hardware level with the help of Hypervisor where in Containers virtulization happens at OS level with the help of containerization engine.
+
+# In Containers it's isolation of process where in VM it's isolation of machine. 
