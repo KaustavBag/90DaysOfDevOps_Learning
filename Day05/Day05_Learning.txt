@@ -26,4 +26,8 @@ Deploy a nginx server using kind and helm chart-->
 
 #in VM virtualization happens at hardware level with the help of Hypervisor where in Containers virtulization happens at OS level with the help of containerization engine.
 
-# In Containers it's isolation of process where in VM it's isolation of machine. 
+# In Containers it's isolation of process where in VM it's isolation of machine.
+
+#Started posting learnings on linkedin and twitter. 
+
+#Have to continue 90DaysDevOps & DevOps Zto H
